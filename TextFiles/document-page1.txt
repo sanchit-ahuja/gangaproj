@@ -1,0 +1,56 @@
+the provisional council was dissolved, even though the name changed to the current Organisation Européenne pour la Recherche Nucléaire (European Organization for
+
+Director
+General
+
+Fabiola Gianotti
+
+Nuclear Research) in 1954.[9] According to Lew Kowarski, a former director of CERN, when the name was changed, the abbreviation could have become the awkward OERN,
+and Werner Heisenberg said that this could "still be CERN even if the name is [not]".
+
+Website
+
+home.cern
+(https://home.cern/)
+
+CERN's ﬁrst president was Sir Benjamin Lockspeiser. Edoardo Amaldi was the general secretary of CERN at its early stages when operations were still provisional, while the
+ﬁrst Director-General (1954) was Felix Bloch.[10]
+The laboratory was originally devoted to the study of atomic nuclei, but was soon applied to higher-energy physics, concerned mainly with the study of interactions between subatomic particles. Therefore, the laboratory
+operated by CERN is commonly referred to as the European laboratory for particle physics (Laboratoire européen pour la physique des particules), which better describes the research being performed there.
+
+The 12 founding member
+states of CERN in 1954[1]
+
+Founding members
+At the sixth session of the CERN Council, which took place in Paris from 29 June - 1 July 1953, the convention establishing the organization was signed, subject to ratiﬁcation, by 12 states. The convention was gradually
+ratiﬁed by the 12 founding Member States: Belgium, Denmark, France, the Federal Republic of Germany, Greece, Italy, the Netherlands, Norway, Sweden, Switzerland, the United Kingdom, and Yugoslavia.[11]
+
+Scientiﬁc achievements
+Several important achievements in particle physics have been made through experiments at CERN. They include:
+1973: The discovery of neutral currents in the Gargamelle bubble chamber;[12]
+1983: The discovery of W and Z bosons in the UA1 and UA2 experiments;[13]
+1989: The determination of the number of light neutrino families at the Large Electron–Positron Collider (LEP) operating on the Z boson peak;
+1995: The ﬁrst creation of antihydrogen atoms in the PS210 experiment;[14]
+1999: The discovery of direct CP violation in the NA48 experiment;[15]
+2010: The isolation of 38 atoms of antihydrogen;[16]
+2011: Maintaining antihydrogen for over 15 minutes;[17]
+2012: A boson with mass around 125 GeV/c2 consistent with the long-sought Higgs boson.[18]
+In September 2011, CERN attracted media attention when the OPERA Collaboration reported the detection of possibly faster-than-light neutrinos.[19] Further tests showed that the results were ﬂawed due to an incorrectly connected GPS synchronization cable.[20]
+The 1984 Nobel Prize for Physics was awarded to Carlo Rubbia and Simon van der Meer for the developments that resulted in the discoveries of the W and Z bosons. The 1992 Nobel Prize for Physics was awarded to CERN staﬀ researcher Georges Charpak "for his
+invention and development of particle detectors, in particular the multiwire proportional chamber". The 2013 Nobel Prize for Physics was awarded to François Englert and Peter Higgs for the theoretical description of the Higgs mechanism in the year after the Higgs boson
+was found by CERN experiments.
+
+Computer science
+The World Wide Web began as a CERN project named ENQUIRE, initiated by Tim Berners-Lee in 1989 and Robert Cailliau in 1990.[21] Berners-Lee and Cailliau were jointly honoured by the Association for Computing Machinery in 1995 for their contributions to the
+development of the World Wide Web.
+Based on the concept of hypertext, the project was intended to facilitate the sharing of information between researchers. The ﬁrst website was activated in 1991. On 30 April 1993, CERN announced that the World Wide Web would be free to anyone. A copy[22] of the
+original ﬁrst webpage (http://www.w3.org/History/19921103-hypertext/hypertext/WWW/TheProject.html), created by Berners-Lee, is still published on the World Wide Web Consortium's website as a historical document.
+Prior to the Web's development, CERN had pioneered the introduction of Internet technology, beginning in the early 1980s.[23]
+More recently, CERN has become a facility for the development of grid computing, hosting projects including the Enabling Grids for E-sciencE (EGEE) and LHC Computing Grid. It also hosts the CERN Internet Exchange Point (CIXP), one of the two main internet
+exchange points in Switzerland.
+
+Particle accelerators
+
+2
+
+
