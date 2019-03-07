@@ -8,10 +8,11 @@ def mergefiles(file_list,output_file):
         f_in=file(f)
         cnt+=int(str(f_in.read().strip()))
         f_in.close()
-    f_out.write(cnt)
+    f_out.write(str(cnt))
+    print('working')
     f_out.flush()
     f_out.close()
     if f_out:
-        return 0
+        return True
     else:
-        return -1
+        return False
