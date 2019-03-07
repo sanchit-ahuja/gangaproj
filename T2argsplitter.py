@@ -4,11 +4,12 @@ j=Job()
 arg_list=[]
 j.application.exe = File('splitterjob.py')
 #j.splitter.attribute='application.args'
-path='/home/sanchit/Desktop/gangaproj/TextFiles/'
+path='/home/sanchit/Desktop/gangaproj/PDFiles/'
 for i in range(0,12):
-    arg_list.append(path+'document-page{}.txt'.format(i))
+    arg_list.append(path+'document-page{}.pdf'.format(i))
 
+arg_supply=[]
 for arg in arg_list:
-    j.splitter=ArgSplitter(args=[arg])
-
+    arg_supply.append([arg])
+j.splitter=ArgSplitter(args=arg_supply)
 j.submit()

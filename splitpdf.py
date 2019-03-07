@@ -1,6 +1,6 @@
 from PyPDF2 import PdfFileWriter, PdfFileReader
 
-inputpdf = PdfFileReader(open("/home/sanchit/Desktop/gangaproj/CERN.pdf", "rb"))
+inputpdf = PdfFileReader(open("/home/sanchit/Desktop/gangaproj/PDFiles/CERN.pdf", "rb"))
 
 for i in range(inputpdf.numPages):
     output = PdfFileWriter()
