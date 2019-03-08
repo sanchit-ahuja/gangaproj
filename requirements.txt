@@ -1,0 +1,5 @@
+ganga==7.1.9
+idna==2.8
+imagesize==1.1.0
+pdftotext==2.1.1
+PyPDF2==1.26.0

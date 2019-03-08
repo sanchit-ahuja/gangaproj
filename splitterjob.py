@@ -5,14 +5,13 @@ import re
 import subprocess
 import pdftotext
 name=str(sys.argv[1])
-with open (name,'rb') as f:
-    f=pdftotext.PDF(f)
+with open (name,'rb') as pdffile:
+    textfile=pdftotext.PDF(pdffile)
 
 cnt=0
-for x in f:
-    x=x.strip()
-    x=x.lower()
-    res=re.findall('the',x)
+for line in textfile:
+    pattern=re.compile(r'\bthe\b',re.IGNORECASE)
+    res=pattern.findall(line)
     cnt+=len(res)
 
 
