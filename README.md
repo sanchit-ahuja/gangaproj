@@ -8,3 +8,11 @@
 * Run the job using  ```ganga T4.py [container name]```
 
 Please change the path in splitterjob.py to your respective home path where you clone this repo
+
+### You can also pull in a docker image to run these jobs.
+1. To install docker. See this documentation. [Docker Install](https://docs.docker.com/install/linux/docker-ce/ubuntu/)
+2. Run this command as root user to pull the docker image ```docker pull sanchitahuja/test:ganga```
+3. Run this command to get inside the container image  ```docker run -it sanchitahuja/test:ganga /bin/bash```
+4. Run this script to initiate the job ```ganga T3.py```
+5. Get inside ganga to complete the job by typing ```ganga``` on the terminal.
+
