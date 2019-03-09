@@ -4,7 +4,7 @@ j=Job()
 j.splitter=GenericSplitter()
 j.application.exe = File('splitterjob.py')
 j.splitter.attribute='application.args'
-path='/home/sanchit/Desktop/gangaproj/PDFiles/'
+path='//gangaproj/PDFiles/'
 for i in range(0,12):
     j.splitter.values.append(path+'document-page{}.pdf'.format(i))
 
