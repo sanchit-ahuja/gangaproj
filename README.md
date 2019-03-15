@@ -11,8 +11,7 @@ Please change the path in splitterjob.py to your respective home path where you 
 
 ### You can also pull in a docker image to run these jobs.
 1. To install docker. See this documentation. [Docker Install](https://docs.docker.com/install/linux/docker-ce/ubuntu/)
-2. Run this command as root user to pull the docker image ```docker pull sanchitahuja/test:ganga```
-3. Run this command to get inside the container image  ```docker run -it sanchitahuja/test:ganga /bin/bash```
-4. Run this script to initiate the job ```ganga T3.py```
-5. Get inside ganga to complete the job by typing ```ganga``` on the terminal.
+2. Run this command as root user to run the docker image ```docker run sanchitahuja/test:ganga```
+3. Get the container id of the latest instance of the docker by typing ```docker container ls -a```
+4. To copy the job data to your local directory run this docker command ```docker cp [container id]:/root/gangadir/workspace/root/LocalXML .```
 

@@ -3,6 +3,7 @@ FROM python:2.7-slim
 WORKDIR /gangaproj
 
 COPY . /gangaproj
+COPY ./.gangarc /root
 
 RUN pip install --upgrade pip
 
@@ -15,5 +16,4 @@ RUN pip install --trusted-host pypi.python.org -r requirements.txt
 ENV NAME gangavenv
 
 CMD ["ganga", "T3.py"]
-
 
